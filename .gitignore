@@ -4,7 +4,6 @@
 .env                          # Local environment variables with OAuth secrets
 .env.local                    # Local environment overrides
 .env.*.local                  # Other local env files
-.env.example                  # (exception: template only, safe to commit)
 
 # ============================================================================
 # PYTHON
